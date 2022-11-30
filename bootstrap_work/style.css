@@ -1,0 +1,22 @@
+
+
+ .box{
+
+    height: 880px;
+    overflow: scroll;
+ 
+} 
+
+   .border{
+  background: darkgrey !important;
+  border-color: darkgray !important;
+}  
+
+
+ .container-fluid{
+    background-color: blueviolet !important;
+}    
+
+.bg-dark{
+  background-color: black !important;
+}
